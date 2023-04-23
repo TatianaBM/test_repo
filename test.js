@@ -3,3 +3,4 @@ function plus(a,b){
 }
 console.log(plus(5,4))
 console.log('train')
+console.log('Tatiana')
